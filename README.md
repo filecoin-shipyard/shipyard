@@ -8,7 +8,7 @@ To propose or discuss a new Shipyard project, please create an [issue](https://g
 
 ## Our current residents
 
-Below are tables of the tools currently existing within the [Filecoin Shipyard](https://github.com/filecoin-shipyard). 
+The following tools, sorted by category, are those that currently reside within the [Filecoin Shipyard](https://github.com/filecoin-shipyard). 
 ### API tools
 
 | Name | Description  |
@@ -54,7 +54,7 @@ Below are tables of the tools currently existing within the [Filecoin Shipyard](
 ### Wallets
 | Name | Description  |
 |---|---|
-| [filecoin-wallet](https://github.com/filecoin-shipyard/filecoin-wallet) A web-based Filecoin wallet implementation written in Java.
+| [filecoin-wallet](https://github.com/filecoin-shipyard/filecoin-wallet) | A web-based Filecoin wallet implementation written in Java. |
 
 
 
