@@ -4,7 +4,11 @@ The Filecoin Shipyard is a venue for the community to collaborate on code librar
 
 #### Have a project to add?
 
-To propose or discuss a new Shipyard project, please create an [issue](https://github.com/filecoin-shipyard/shipyard/issues/new) in this repository with as much information and as many relevant links as possible. To all existing contributors, thank you for your hard work!
+To add an existing project to this listing, please create an create an [issue](https://github.com/filecoin-shipyard/shipyard/issues/new) with the project Github link, description, and status.
+
+To propose a brand new Shipyard repo, please create an [issue](https://github.com/filecoin-shipyard/shipyard/issues/new) in this repository with as much information and as many relevant links as possible.
+
+To all existing contributors, thank you for your hard work!
 
 ## Our current residents
 
