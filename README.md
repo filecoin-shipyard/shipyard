@@ -8,7 +8,7 @@ To propose or discuss a new Shipyard project, please create an [issue](https://g
 
 ## Our current residents
 
-The following tools, sorted by category, are those that currently reside within the [Filecoin Shipyard](https://github.com/filecoin-shipyard). 
+The following tools, sorted by category, are those that currently reside within the [Filecoin Shipyard](https://github.com/filecoin-shipyard).
 
 ### API tools
 
@@ -19,6 +19,8 @@ The following tools, sorted by category, are those that currently reside within 
 | [use-filecoin-config](https://github.com/filecoin-shipyard/use-filecoin-config) | React hook to load config via Filecoin API | Active |
 | [use-filecoin-network-info](https://github.com/filecoin-shipyard/use-filecoin-network-info) | React hook to query network info via Filecoin API | Active |
 | [use-filecoin-head](https://github.com/filecoin-shipyard/use-filecoin-head) | React hook to query head blocks and chain height via Filecoin API |  Active |
+| [starling-api](https://github.com/smalldata-industries/starling-api) | A RESTful API that simplifies storing data |
+
 
 ### Block explorers
 
@@ -27,16 +29,10 @@ The following tools, sorted by category, are those that currently reside within 
 | [filscan-block-explorer](https://github.com/filecoin-shipyard/filscan-block-explorer) | The Filscan.io block explorer | Active |
 | [filecoin-block-explorer](https://github.com/filecoin-shipyard/filecoin-block-explorer) | A Filecoin block explorer | Active |
 
-
-### Client tools
+## Client tools
 
 | Name | Description  | Status |
 |---|---|---|
-| [filecoin-pickaxe](https://github.com/filecoin-shipyard/filecoin-pickaxe) | A tool for storing and retrieving data on Filecoin | Active |
-| [filecoin-pickaxe-direct deal](https://github.com/filecoin-shipyard/filecoin-pickaxe-direct-deal) | Filecoin deals for pickaxe bundles | Active |
-| [filecoin-pickaxe-agent](https://github.com/filecoin-shipyard/filecoin-pickaxe-agent) | An agent for performing requested Filecoin tasks | Active |
-| [filecoin-browse-asks](https://github.com/filecoin-shipyard/filecoin-pickaxe-asks) | A tool for scrolling through Filecoin asks in a terminal | Active |
-| [filecoin-big-head](https://github.com/filecoin-shipyard/filecoin-big-head) | A tool for displaying current chain height in a terminal | Active |
 | [js-lotus-client](https://github.com/filecoin-shipyard/js-lotus-client) | Lotus JS client | Active |
 | [js-lotus-client-schema](https://github.com/filecoin-shipyard/js-lotus-client-schema) | Lotus JS client schema model | Active |
 | [js-lotus-client-rpc](https://github.com/filecoin-shipyard/js-lotus-client) | Lotus JS API JSON-RPC query module | Active |
@@ -46,17 +42,27 @@ The following tools, sorted by category, are those that currently reside within 
 | [rl1-lotus-workshop](https://github.com/filecoin-shipyard/rl1-lotus-workshop) | A workship for Ready Layer One | Active |
 | [npm-go-filecoin-dep](https://github.com/filecoin-shipyard/npm-go-filecoin-dep) | Scripts for downloading `go-filecoin` to a `node_modules` directory | Active |
 
-### Metrics tools
+### Miner tools
+
+| Name | Description  | Status |
+|---|---|---|
+| [filecoin-pickaxe](https://github.com/filecoin-shipyard/filecoin-pickaxe) | A tool for storing and retrieving data on Filecoin | Active |
+| [filecoin-pickaxe-direct deal](https://github.com/filecoin-shipyard/filecoin-pickaxe-direct-deal) | Filecoin deals for pickaxe bundles | Active |
+| [filecoin-pickaxe-agent](https://github.com/filecoin-shipyard/filecoin-pickaxe-agent) | An agent for performing requested Filecoin tasks | Active |
+| [filecoin-browse-asks](https://github.com/filecoin-shipyard/filecoin-pickaxe-asks) | A tool for scrolling through Filecoin asks in a terminal | Active |
+| [filecoin-big-head](https://github.com/filecoin-shipyard/filecoin-big-head) | A tool for displaying current chain height in a terminal | Active |
+
+### Miner metrics tools
+
 | Name | Description  | Status |
 |---|---|---|
 | [hactar](https://github.com/filecoin-shipyard/hactar) | Analysis and monitoring tool for Filecoin miners | Active |
 | [telegraf-lotus](https://github.com/filecoin-shipyard/telegraf-lotus) | An analytics capture plugin for the Lotus daemon alongside Telegraf |  Active |
 
 ### Wallets
+
 | Name | Description  | Status |
 |---|---|---|
 | [filecoin-wallet](https://github.com/filecoin-shipyard/filecoin-wallet) | A web-based Filecoin wallet implementation written in Java | Active |
-
-
-
-#
+| [filecoin-web-wallet](https://github.com/openworklabs/filecoin-web-wallet) | A web wallet built with Next.js that supports sending & receiving FIL from a Ledger device | **In progress** | 
+| [filecojn-rs](https://github.com/zondax/filecoin-rs) | Filecoin Signing Library - Rust / WASM / JSONRPC Signing Service | **In progress** |
