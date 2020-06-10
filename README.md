@@ -1,6 +1,8 @@
 # Filecoin Shipyard
 
-The Filecoin Shipyard is a venue for the community to collaborate on code libraries, research experiments, products and more. It's an area for people of all backgrounds to contribute their talents to help create some of the user-driven tools that continue to keep the Filecoin ecosystem robust and thriving. 
+Welcome to the Filecoin Shipyard! Inspired by the active and bustling places where ships are built and repaired, this is a venue for the Filecoin community to pursue and collaborate on code libraries, tools, experiments, products, and more.
+
+It serves as a companion to the [filecoin-project](https://github.com/filecoin-project) Github org.
 
 #### Have a project to add?
 
@@ -68,5 +70,5 @@ The following tools, sorted by category, are those that currently reside within 
 | Name | Description  | Status |
 |---|---|---|
 | [filecoin-wallet](https://github.com/filecoin-shipyard/filecoin-wallet) | A web-based Filecoin wallet implementation written in Java | Active |
-| [filecoin-web-wallet](https://github.com/openworklabs/filecoin-web-wallet) | A web wallet built with Next.js that supports sending & receiving FIL from a Ledger device | **In progress** | 
+| [filecoin-web-wallet](https://github.com/openworklabs/filecoin-web-wallet) | The Glif web wallet. Built with Next.js and supports sending & receiving FIL from a Ledger device | **In progress** | 
 | [filecojn-rs](https://github.com/zondax/filecoin-rs) | Filecoin Signing Library - Rust / WASM / JSONRPC Signing Service | **In progress** |
