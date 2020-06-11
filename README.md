@@ -27,7 +27,7 @@ The following community-built tools, sorted by category, are those that currentl
 | [filscan-block-explorer](https://github.com/filecoin-shipyard/filscan-block-explorer) | The Filscan.io block explorer | Active |
 | [filecoin-block-explorer](https://github.com/filecoin-shipyard/filecoin-block-explorer) | A Filecoin block explorer | Active |
 
-## Client tools
+### Client tools
 
 | Name | Description  | Status |
 |---|---|---|
