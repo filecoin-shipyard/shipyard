@@ -34,8 +34,7 @@ The following community-built tools, sorted by category, are those that currentl
 | [js-lotus-client](https://github.com/filecoin-shipyard/js-lotus-client) | Lotus JS client | Active |
 | [js-lotus-client-rpc](https://github.com/filecoin-shipyard/js-lotus-client) | Lotus JS API JSON-RPC query module | Active |
 | [js-lotus-client-provider-browser](https://github.com/filecoin-shipyard/js-lotus-client) | Lotus JS client web browser Provider module | Active |
-
-| [npm-go-filecoin-dep](https://github.com/filecoin-shipyard/npm-go-filecoin-dep) | Scripts for downloading `go-filecoin` to a `node_modules` directory | **Inactive**uu |
+| [npm-go-filecoin-dep](https://github.com/filecoin-shipyard/npm-go-filecoin-dep) | Scripts for downloading `go-filecoin` to a `node_modules` directory | **Inactive** |
 
 ### Demonstrations and tutorials
 
