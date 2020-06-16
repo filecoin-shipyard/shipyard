@@ -14,7 +14,7 @@ The following community-built tools, sorted by category, are those that currentl
 |---|---|---|
 | [java-filecoin-api-client](https://github.com/filecoin-shipyard/java-filecoin-api-client) |  A Filecoin API client implemented in Java | Active |
 | [js-filecoin-api-client](https://github.com/filecoin-shipyard/js-filecoin-api-client) | A Filecoin API client implemented in JavaScript | Active |
-| [starling-api](https://github.com/smalldata-industries/starling-api) | A RESTful API that simplifies storing data |
+| [starling-api](https://github.com/smalldata-industries/starling-api) | A RESTful API that simplifies storing data | Active |
 | [use-filecoin-config](https://github.com/filecoin-shipyard/use-filecoin-config) | React hook to load config via Filecoin API | Active |
 | [use-filecoin-network-info](https://github.com/filecoin-shipyard/use-filecoin-network-info) | React hook to query network info via Filecoin API | Active |
 | [use-filecoin-head](https://github.com/filecoin-shipyard/use-filecoin-head) | React hook to query head blocks and chain height via Filecoin API |  Active |
