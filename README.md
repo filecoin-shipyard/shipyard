@@ -1,3 +1,5 @@
+> :warning: This repository is no longer active. Please head to github.com/filecoin-project/community to browse Filecoin community projects or join the discussion forums!
+
 # Filecoin Shipyard
 
 Welcome to the Filecoin Shipyard! Inspired by the active and bustling places where ships are built and repaired, this is a venue for the Filecoin community to pursue and collaborate on code libraries, tools, experiments, products, and more.
